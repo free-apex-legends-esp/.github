@@ -1,6 +1,8 @@
 # Apex Legends ESP
 ESP or Extrasensory Perception is a type of cheat tool that allows you to see and identify opponents, their names, positions, weapons, health status, gear, and distances. Similar to a wallhack, the Apex Legends ESP 2025 enables you to see enemies through solid objects like walls or beyond your field of view.
 
+[![634573568](https://github.com/user-attachments/assets/89c2f5d3-296d-4dee-b821-9cd7e5d8d6d5)](https://y.gy/apex-esp)
+
 ## Impact of Apex Legends ESP 2025 on the Game
 ESP hacks can significantly boost your personal gaming experience by drastically boosting your performance and offering you greater control over the gameplay. It can greatly increase your kill count and your chances of winning. However, it can demotivate and discourage honest players who prefer using their hard-earned skills to win the game instead of using cheats.
 
@@ -8,10 +10,15 @@ Moreover, gaining an unfair advantage over others can ruin the competitive natur
 ## TECHNICAL INFORMATION
 
 Supported version of the game: Steam / Origin / EA App
+
 Supported game Mode: Windowed / Fullscreen in Window
+
 Supported Windows OS: 10&11x64 versions 2004 / 20H2 / 21H1 / 21H2 / 22H2 / 23H2
+
 Supported anti-cheats: Easy Anti-Cheat, BattleEye
+
 Supported processors: Intel and AMD
+
 Support for invisibility on videos or screenshots: No
 
 ----------------------------------------------------------
